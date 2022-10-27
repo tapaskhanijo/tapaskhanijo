@@ -2,7 +2,7 @@
 - Previously, I've worked with Music & Tech startups, Record Labels💲
 - Participated in HacktoberFest '22👩🏻‍💻
 - I’m interested in Data and Product Analysis verticals📝
-- I’m currently learning various skills like Python, EDA, MySQL, Excel to get more familiar with Data domains👓
+- I’m currently learning various skills like Python, EDA, MySQL, Microsoft Excel to get more familiar with Data domains👓
 - I’m looking to collaborate on tech as well as non-tech projects✌ 
 
 # Hacktober-Fest🧿
